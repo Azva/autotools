@@ -1,6 +1,13 @@
+To install, run commands:
+- ./configure
+- make
+- ./zadanie2
+
 To install the required apps, use the following commands:
-- sudo apt install perl
-- sudo apt install m4
+
+    sudo apt install perl
+    sudo apt install m4
 
 If any problems occur while accessing autotools, please check for other dependencies by command:
-- sudo apt show autoconf
+
+    sudo apt show autoconf
