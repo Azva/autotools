@@ -1,8 +1,12 @@
 To install and use, run commands:
+- aclocal
+- autoconf
+- automake --add-missing --foreign
 - ./configure
 - make
-- make install
 - ./zadanie2
+
+IF you don't have perl and m4:
 
 To install the required apps, use the following commands:
 
