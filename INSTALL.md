@@ -1,6 +1,7 @@
-To install, run commands:
+To install and use, run commands:
 - ./configure
 - make
+- make install
 - ./zadanie2
 
 To install the required apps, use the following commands:
