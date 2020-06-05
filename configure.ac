@@ -1,6 +1,7 @@
-AC_INIT([Zadanie 2], 1.0)
+AC_INIT([Zadanie 2], 1.1)
 AM_INIT_AUTOMAKE
 AC_CONFIG_FILES([Makefile])
-AC_CONFIG_SRCDIR([main.cpp], [libpole.h], [libobj.h])
+AC_CONFIG_SRCDIR([main.cpp])
 AC_PROG_CXX
+LT_INIT
 AC_OUTPUT
