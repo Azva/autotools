@@ -1,4 +1,5 @@
 To install and use, run commands:
+- libtoolize
 - aclocal
 - autoconf
 - automake --add-missing --foreign
